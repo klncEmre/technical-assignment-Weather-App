@@ -3,6 +3,12 @@
 
 This project written in Swift by Emre Kılınc <br>
 
+You need to have Xcode Installed. 
+<br>
+Please open weather_app.xcworkspace with Xcode and run the simulator then on xcode Debug -> Simulate Location -> Pick a city. 
+<br>
+If cities are not available to select you have gps problem because of simulator, just re-run app and try toselect a city 
+
 I have used: <br>
   -UIKIT  <br>
   -ALAMOFIRE <br>
