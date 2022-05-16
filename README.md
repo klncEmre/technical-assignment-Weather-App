@@ -7,7 +7,7 @@ You need to have Xcode installed.
 <br>
 Please open weather_app.xcworkspace with Xcode and run the simulator then on xcode Debug -> Simulate Location -> Pick a city. 
 <br>
-If cities are not available to select you have gps problem because of simulator, just re-run app and try toselect a city again, it should solve the problem.
+If cities are not available to select you have gps problem because of simulator, just re-run app and try to select a city again, it should solve the problem.
 
 I have used: <br>
   -UIKIT  <br>
