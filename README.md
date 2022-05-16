@@ -1,4 +1,4 @@
-# techincal-assignment-Weather-App
+# technical-assignment-Weather-App
 
 
 This project written in Swift by Emre Kılınc <br>
